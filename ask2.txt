@@ -1,0 +1,51 @@
+α. Το impact factor είναι ένα μέτρο που αντικατοπτρίζει τον ετήσιο μέσο αριθμό των 
+ετεροαναφορών σε πρόσφατα άρθρα που δημοσιεύονται σε αυτό το περιοδικό. Χρησιμοποιείται 
+συχνά ως υποκατάστατο για τη σχετική σημασία ενός περιοδικού στο πεδίο του. Τα περιοδικά 
+με υψηλότερους παράγοντες επιπτώσεων(impact factors) θεωρούνται συχνά πιο σημαντικά από εκείνα 
+με χαμηλότερα. Χαρακτηρίζει επιστημονικά περιοδικά.
+
+Σε κάθε δεδομένο έτος, ο συντελεστής επιρροής ενός περιοδικού είναι ο αριθμός 
+των παραπομπών που ελήφθησαν κατά το έτος αυτό σε άρθρα που δημοσιεύθηκαν σε αυτό 
+το περιοδικό κατά τα δύο προηγούμενα έτη, διαιρούμενο με το συνολικό αριθμό των 
+άρθρων που δημοσιεύθηκαν σε αυτό το περιοδικό κατά τα δύο προηγούμενα έτη:
+
+IF(y) = (Citations(y-1) + Citations(y-2))/(Publications(y-1) + Publications(y-2)), όπου y το ετος.
+
+β.
+Internation Journal of Computer Vision
+Impact Factor: 8.222(2016)
+
+Image and Vision Computing
+Impact Factor: 2.671(2016)
+
+
+Computer Vision and Image Understanding
+Impact Factor: 2.498(2016)
+
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence
+Impact Factor: 8.329(2016)
+
+
+Journal of Mathematical Imaging and Vision
+Impact Factor: 1.994(2016)
+
+
+ACM Transactions on Graphics
+Impact Factor: 4.088(2017)
+
+
+IEEE Transactions on Multimedia
+Impact Factor: 3.509(2016)
+
+
+International Journal on Document Analysis and Recognition
+Impact Factor: 0.902(2016)
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+α)
+F. Harfoush, G.A. Kriegmann, and A. Taflove, “A numerical technique for 
+analysing electromagnetic-wave scattering from moving surfaces in one-dimension 
+and 2-dimensions”, IEEE Transactions on Antennas and Propagation, vol. 37, no. 1, pp. 55-63, Jan. 1989
+
+number of citations: 89
+
+
+L. Gong, R. Hagel, K. Zhang, and R. Unbehauen, “Solution of the 3-D Helmholtz- equation with 
+eddy currents in cylindrical coordinates by longitudinal components”, IEEE Transactions on 
+Magnetics, vol. 28, no. 2, pp. 1154-1157, Feb. 1992
+
+number of citations: 11
+
+
+
+G. Videen, D. Ngo, and M. Hart, “Light-scattering from a pair of conducting osculating spheres”, Optics 
+Communications, vol. 125, no. 4-6, pp. 275-287, Apr. 1996
+
+number of citations: 32
+
+
+L. Gao and J. Nakayama, “Diffraction and scattering of a plane wave from randomly deformed periodic 
+surface”, IEICE Transactions on Electronics, vol. E80C, no. 11, pp. 1374-1380, Nov. 1997
+
+number of citations: 13
+
+
+
+J. Kim and Y. Rahmat-Samii, “On the applicability of simplified spherical human heads for implanted 
+antennas in biomedical communications”, Electromagnetics, vol. 25, no. 6, pp. 491-511, Jun. 2005
+
+number of citations: 3
+
+
+
+β)
+Ο αριθμός ετεροαναφορών(citations) σε ένα έργο αναφέρεται στο πόσες φορές έγινε αναφορά σε αυτό το έργο μέσα σε έργα τρίτων. Χαρακτηρίζει
+επιστημονικά περιοδικά, βιβλία, εφημερίδες, ιστοσελίδες,θεατρικά έργα, ποιήματα και συνεντεύξεις.
+
+
